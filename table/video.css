@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: darkkhaki;
+    color: crimson;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
